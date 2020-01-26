@@ -9,7 +9,7 @@ body{
 
 .top-container{
     text-align: center;
-    background-color: black;
+    background-color: white;
 }
 
 .top-container #name{
@@ -29,7 +29,7 @@ body{
 }
 .dev{
     font-family: 'Source Code Pro', monospace;
-    color: white;
+    color: #333333;
     font-size: 1.2rem;
 }
 
