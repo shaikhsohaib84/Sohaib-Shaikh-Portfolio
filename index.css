@@ -1,0 +1,115 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    text-align: center;
+}
+
+.top-container{
+    text-align: center;
+    background-color: black;
+}
+
+.top-container #name{
+    position: relative;
+    top: 50px;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #02a8a8;
+    line-height: 1;
+    font-weight: unset;
+}
+
+.top-container .sub-title{
+    display: block;
+    position: relative;
+    top: 50px;
+}
+.dev{
+    font-family: 'Source Code Pro', monospace;
+    color: #effcef;
+    font-size: 1.2rem;
+}
+
+.middle-container{
+    background-color: #f0efef;
+}
+
+.image{
+    width: 250px;
+    height: auto;
+    border-radius: 50rem;
+    margin : 20px auto;
+}
+
+.profile{
+    text-align: center;
+    background-color: #f0efef;
+    display:block;
+    position: relative;
+    bottom: 20px;
+}
+
+.profile-pic{
+    width: 250px;
+    height: 250px;
+    display: block;
+    position: relative;
+    margin: 0 auto;
+}
+
+.title{
+    font-family: 'Lobster', cursive;
+    color: #f77754;
+    font-size: 4rem;
+    font-weight: normal;
+    position: relative;    
+}
+
+.profile-dev{
+    font-family: 'Comfortaa', cursive;
+    color: #272727;
+    font-size: 1.2rem;
+}
+
+hr{
+    color: #52de97;
+    border-style: dotted none none;
+    display: inline-block;
+    width: 7%;
+    border-width: 10px;   
+}
+
+h3{
+    font-weight: unset;
+    font-size: 1.7rem;
+    font-family: 'Candal', sans-serif;
+    padding-bottom: 5px;
+}
+
+.btn{
+    font-family: 'Bowlby One SC', cursive;
+    text-decoration: none;
+    color: #018383;
+    font-size: 1.25rem;
+    letter-spacing: 0.3px;
+}
+
+.bottom-container{
+    background-color: #f0efef;
+    padding-top: 20px;
+}
+
+.footer-link{
+    text-decoration: none;
+    font-family: 'Bowlby One SC', cursive;
+    color: #192965;
+    letter-spacing: 0.4px;
+}
+
+p{
+    text-decoration: none;
+    font-family: 'Bowlby One SC', cursive;
+}
