@@ -75,10 +75,16 @@ body{
     position: relative;    
 }
 
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+}
 .profile-dev{
     font-family: 'Comfortaa', cursive;
     color: #272727;
     font-size: 1.2rem;
+    margin: auto;
+    width: 50%;
 }
 
 hr{
