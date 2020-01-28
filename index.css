@@ -80,6 +80,7 @@ body{
     margin: 100px auto;
 }
 .profile-dev{
+    text-align:left;
     font-family: 'Comfortaa', cursive;
     color: #272727;
     font-size: 1.2rem;
