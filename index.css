@@ -33,6 +33,12 @@ body{
     font-size: 1.2rem;
 }
 
+.mountain-img{
+    width:auto;
+    height:auto;
+    max-width:100%;
+}
+
 .middle-container{
     background-color: #f0efef;
 }
