@@ -49,7 +49,7 @@ body{
     height: auto;
     max-width: 100%;
     border-radius: 50rem;
-    margin : 20px auto;
+    margin : 0px auto;
 }
 
 .profile{
@@ -73,7 +73,7 @@ body{
     position: relative;    
 }
 
-.skill{
+.skills{
     margin-top: 50px;
 }
 
