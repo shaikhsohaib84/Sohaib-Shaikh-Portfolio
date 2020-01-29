@@ -50,7 +50,7 @@ body{
     max-width: 100%;
     border-radius: 50rem;
     margin : 0px auto;
-    margin-bottom:20px;
+    margin-bottom: 20px;
 }
 
 .profile{
@@ -108,8 +108,7 @@ h3{
     font-weight: unset;
     font-size: 1.7rem;
     font-family: 'Comfortaa', cursive;
-    padding-bottom: 5px;
-    
+    padding: 15px 0px; 
 }
 
 .btn{
