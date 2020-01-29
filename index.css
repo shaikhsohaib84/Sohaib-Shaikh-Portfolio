@@ -89,6 +89,10 @@ body{
     width: 50%;
 }
 
+.contact-me{
+    margin-top: 50px;
+}
+
 hr{
     color: #52de97;
     border-style: dotted none none;
