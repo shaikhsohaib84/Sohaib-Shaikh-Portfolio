@@ -54,10 +54,7 @@ body{
 
 .profile{
     text-align: center;
-    background-color: #f0efef;
-    display:block;
-    position: relative;
-    bottom: 20px;
+    margin-bottom: 100px;
 }
 
 .profile-pic{
@@ -76,17 +73,21 @@ body{
     position: relative;    
 }
 
+.skill{
+    margin-top: 50px;
+}
+
 .skill-row{
     width: 50%;
     margin: 100px auto;
 }
 .profile-dev{
-    text-align:left;
     font-family: 'Comfortaa', cursive;
+    text-align: left;
     color: #272727;
     font-size: 1.2rem;
-    margin: auto;
     width: 50%;
+    margin: auto;
 }
 
 .contact-me{
@@ -106,6 +107,7 @@ h3{
     font-size: 1.7rem;
     font-family: 'Candal', sans-serif;
     padding-bottom: 5px;
+    
 }
 
 .btn{
