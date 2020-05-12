@@ -124,6 +124,14 @@ h3{
     letter-spacing: 0.3px;
 }
 
+.btn:hover {
+    background-color: #9DD7E1;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    text-decoration: none;
+    }
+
 .bottom-container{
     background-color: #f0efef;
     padding-top: 20px;
@@ -134,9 +142,16 @@ h3{
     font-family: 'Bowlby One SC', cursive;
     color: #192965;
     letter-spacing: 0.4px;
+    margin: 0px 50px;
+}
+
+.footer-link:hover{
+    color: #f77754;
 }
 
 p{
     text-decoration: none;
     font-family: 'Bowlby One SC', cursive;
+    padding: 20px 0px;
+    font-size: 0.75rem;
 }
